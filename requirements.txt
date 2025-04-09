@@ -1,0 +1,5 @@
+argparse
+aiohttp
+asyncio
+colorama
+validators
