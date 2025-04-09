@@ -135,4 +135,6 @@ def main():
             print(f"{Fore.RED}[!] Failed to save results: {e}")
 
 if __name__ == "__main__":
+    print_banner()
     main()
+    
