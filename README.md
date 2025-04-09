@@ -63,5 +63,5 @@ python3 crtsh.py -f domains.txt -n -o subs.txt
 
 ---
 
-**Made with 💀 by AIwolfie**
+**Made by AIwolfie**
 
